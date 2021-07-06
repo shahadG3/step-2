@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="201" started-at="2021-07-06T22:04:08 GMT+03:00" finished-at="2021-07-06T22:04:08 GMT+03:00">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:StepHooks.HooksRunner@77e4c80f]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Default test" duration-ms="201" started-at="2021-07-06T22:04:08 GMT+03:00" finished-at="2021-07-06T22:04:08 GMT+03:00">
+      <class name="StepHooks.HooksRunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:StepHooks.HooksRunner@77e4c80f]" name="setUpClass" is-config="true" duration-ms="167" started-at="2021-07-06T22:04:08 GMT+03:00" finished-at="2021-07-06T22:04:08 GMT+03:00">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:StepHooks.HooksRunner@77e4c80f]" name="tearDownClass" is-config="true" duration-ms="9" started-at="2021-07-06T22:04:08 GMT+03:00" finished-at="2021-07-06T22:04:08 GMT+03:00">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+        <test-method status="PASS" signature="genaratRep()[pri:0, instance:StepHooks.HooksRunner@77e4c80f]" name="genaratRep" is-config="true" duration-ms="674" started-at="2021-07-06T22:04:08 GMT+03:00" finished-at="2021-07-06T22:04:09 GMT+03:00">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- genaratRep -->
+      </class> <!-- StepHooks.HooksRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

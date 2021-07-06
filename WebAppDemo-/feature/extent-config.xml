@@ -1,0 +1,25 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+	<extentreports>
+	<Configuration>
+	<theme> dark</theme>
+	<Encoding> UTF-8 </Encoding>
+	<Protocol>http</Protocol>
+	<doucumentTitle> Extent </doucumentTitle>
+	<reportName> Grasshoper </reportName> 	
+	<testViewChartLocation> bottom </testViewChartLocation> 
+	
+	<scripts>
+	<![CDATA[
+	$(document).ready(function(){
+	});
+	]]>
+	</scripts>
+<styles>
+		 <![CDATA[
+		 ]]>
+</styles>
+
+
+</Configuration>
+</extentreports>
+		
